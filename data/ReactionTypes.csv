@@ -1,5 +1,5 @@
-,Type,Sentiment,Score
-0,heart,positive,60
+Column1,Reaction Type,Sentiment,Score
+ ,heart,positive,60
 1,want,positive,70
 2,disgust,negative,0
 3,hate,negative,5
